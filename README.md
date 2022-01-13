@@ -1,2 +1,2 @@
 # Dijkstra
-A Haskell implementation of Dijkstra's shortest path algorithm.
+A Haskell implementation of Edsger Dijkstra's shortest path algorithm.
